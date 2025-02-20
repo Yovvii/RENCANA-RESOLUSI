@@ -3,10 +3,9 @@ Rencana Konten
   + ES6
   + Framework Javascript
     - Vue
-    - React
 - Struktur Data Dasar
+  + Lego
 - PHP
   + Laravel
 - Laravel
 - Python
-- Vlogs

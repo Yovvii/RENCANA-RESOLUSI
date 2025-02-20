@@ -2,9 +2,10 @@ Rencana Konten
 - Javascript
   + ES6
   + Framework Javascript
-    - Angular
-    - React
+    - Vue
 - Struktur Data Dasar
   + Lego
 - PHP
+  + Laravel
 - Laravel
+- Python

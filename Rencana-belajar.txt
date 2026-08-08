@@ -1,0 +1,8 @@
+RENCANA BELAJAR MANDIRI
+
+-JavaScript
+  *NextJS
+  *NodeJS
+-FrameWork
+-PHP
+-Web Building
